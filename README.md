@@ -1,6 +1,6 @@
 # Hi there, I'm Elvis Zogaj! 👋
 
-### 🚀 Junior .NET Developer | Computer Science Student @ UBT
+### 🚀 .NET Developer | Computer Science Student @ UBT
 
 I am a final-year Computer Science student at **UBT**, specializing in software development with a primary focus on the **.NET ecosystem**. My passion lies in architecting secure, efficient, and scalable backend solutions using the latest technologies like **ASP.NET Core (.NET 10)** and **Entity Framework Core**. 
 
