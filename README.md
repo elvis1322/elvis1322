@@ -2,9 +2,12 @@
 
 ### 🚀 Junior .NET Developer | Computer Science Student @ UBT
 
-I am a software development student with a focus on building robust, scalable web applications. I combine backend expertise in **.NET 10** with modern frontend practices in **React** to deliver high-quality full-stack solutions.
+I am a final-year Computer Science student at **UBT**, specializing in software development with a primary focus on the **.NET ecosystem**. My passion lies in architecting secure, efficient, and scalable backend solutions using the latest technologies like **ASP.NET Core (.NET 10)** and **Entity Framework Core**. 
+
+Currently, I am leading the development of a comprehensive **Appointment Booking System**, where I have implemented an advanced authentication layer featuring **JWT** and **Refresh Tokens**. Beyond backend logic, I am actively engaged in crafting modern user interfaces with **React**, ensuring seamless end-to-end integration through RESTful APIs. Committed to software excellence, I am deeply exploring the **Software Testing Life Cycle (STLC)** to ensure the delivery of maintainable and bug-free products.
 
 ---
+
 
 ### 🛠 Tech Stack & Skills
 
