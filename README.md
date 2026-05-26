@@ -8,7 +8,6 @@ Currently, I am leading the development of a comprehensive **Appointment Booking
 
 ---
 
-
 ### 🛠 Tech Stack & Skills
 
 - **Backend Development:** ASP.NET Core (.NET 10), C#, Entity Framework Core, PHP, Java.
@@ -22,18 +21,23 @@ Currently, I am leading the development of a comprehensive **Appointment Booking
 
 ### 📂 Featured Projects
 
-#### 🗓 [Appointment Booking System](https://github.com/elvis1322)
+#### 🗓 [Appointment Booking System](https://github.com/elvis1322/Appointment-booking-system) 🔗
 *Full-Stack Developer & Project Manager*
 - Architected the backend using **.NET 10** with a custom JWT & Refresh Token authentication system.
 - Leading the team through sprint coordination and system architecture planning.
 - Currently developing modular React interfaces for user registration and profile management.
 
-#### 🏠 [SmartSpace](https://github.com/elvis1322)
+#### ☕ [Java Internship Projects](https://github.com/elvis1322/Java-Internship-Projects) 🔗
+*Java Development Intern @ Codveda Technologies*
+- Implemented 9 distinct core and advanced Java tasks spanning across 3 complexity levels.
+- Developed applications covering File I/O, OOP configurations, Custom Binary Search Tree structures, Java Socket Networking (Multithreaded Chat application), and Database integration using JDBC.
+
+#### 🏠 [SmartSpace](https://github.com/GentiR-ui/SmartSpace) 🔗
 *Collaborative Team Project*
 - Focused on building reusable React components and seamless RESTful API integration.
 - Implementing Git branching strategies for efficient team collaboration and conflict resolution.
 
-#### 🏫 [WebSchool](https://github.com/elvis1322)
+#### 🏫 [WebSchool](https://github.com/Jahirq1/WebSchool) 🔗
 *Backend Development with PHP*
 - Designed and managed MySQL databases for administrative record keeping.
 - Implemented rigorous data security protocols and server-side input validation.
