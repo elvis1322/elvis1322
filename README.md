@@ -1,60 +1,59 @@
 # Hi there, I'm Elvis Zogaj! 👋
 
-### 🚀 .NET Developer | Computer Science Student @ UBT
+🚀 **Software Engineer & .NET Developer** | Computer Science @ UBT
 
-I am a final-year Computer Science student at **UBT**, specializing in software development with a primary focus on the **.NET ecosystem**. My passion lies in architecting secure, efficient, and scalable backend solutions using the latest technologies like **ASP.NET Core (.NET 10)** and **Entity Framework Core**. 
+I am a final-year Computer Science student at UBT, specializing in full-stack software development with a primary focus on the **.NET ecosystem** and **React**. My passion lies in architecting secure, efficient, and scalable web applications using modern practices like Clean Architecture, RESTful APIs, and robust database design.
 
-Currently, I am leading the development of a comprehensive **Appointment Booking System**, where I have implemented an advanced authentication layer featuring **JWT** and **Refresh Tokens**. Beyond backend logic, I am actively engaged in crafting modern user interfaces with **React**, ensuring seamless end-to-end integration through RESTful APIs. Committed to software excellence, I am deeply exploring the **Software Testing Life Cycle (STLC)** to ensure the delivery of maintainable and bug-free products.
+Currently, I am leading the full-stack development of a feature-rich Appointment Booking System, implementing custom JWT authentication, real-time messaging, and payment integration. Driven by software excellence, I continuously focus on clean code, solid design patterns (Repository/Service), and Quality Assurance across the Software Testing Life Cycle (STLC).
 
 ---
 
 ### 🛠 Tech Stack & Skills
 
-- **Backend Development:** ASP.NET Core (.NET 10), C#, Entity Framework Core, PHP, Java.
-- **Frontend Development:** React (Vite), JavaScript, HTML5, CSS3, Material UI.
-- **Databases:** SQL Server, MySQL.
-- **Security & Auth:** JWT (JSON Web Tokens), Refresh Tokens, BCrypt, Server-side Validation.
-- **Software Lifecycle:** Proficient in **SDLC** methodologies (Agile/Scrum) with a strong focus on **Software Testing Life Cycle (STLC)**.
-- **Tools:** Git, GitHub, Project Management.
+* **Backend:** C#, .NET Core / ASP.NET Core, Entity Framework Core, Java, PHP, RESTful APIs, SignalR, JWT Authentication
+* **Frontend:** React, TypeScript, JavaScript, Material UI, HTML5, CSS3
+* **Databases:** SQL Server, MySQL, MongoDB
+* **Architecture & Testing:** Clean Architecture, Repository/Service Patterns, STLC (Software Testing Life Cycle), SDLC (Agile/Scrum)
+* **Tools & DevOps:** Git, GitHub, Docker, Postman
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🗓 [Appointment Booking System](https://github.com/elvis1322/Appointment-booking-system) 🔗
-*Full-Stack Developer & Project Manager*
-- Architected the backend using **.NET 10** with a custom JWT & Refresh Token authentication system.
-- Leading the team through sprint coordination and system architecture planning.
-- Currently developing modular React interfaces for user registration and profile management.
+#### 🗓 [Appointment Booking System](https://github.com/elvis1322) 
+**Full-Stack Developer & Team Lead**
+* Architected a clean, multi-layer backend in ASP.NET Core using custom JWT & Refresh Token authentication.
+* Integrated real-time communication hubs (SignalR) and payment gateway processing (Stripe).
+* Designed dynamic, responsive React interfaces for seamless booking and scheduling management.
+* Led a 4-member development team through sprint coordination and architectural planning.
 
-#### ☕ [Java Internship Projects](https://github.com/elvis1322/Java-Internship-Projects) 🔗
-*Java Development Intern @ Codveda Technologies*
-- Implemented 9 distinct core and advanced Java tasks spanning across 3 complexity levels.
-- Developed applications covering File I/O, OOP configurations, Custom Binary Search Tree structures, Java Socket Networking (Multithreaded Chat application), and Database integration using JDBC.
+#### ☕ [Java Internship Projects](https://github.com/elvis1322)
+**Java Development Intern @ Codveda Technologies**
+* Built and delivered 9 core and advanced Java applications demonstrating OOP principles, data structures, and multithreading.
+* Implemented custom binary search trees, File I/O operations, multithreaded network chat applications via Java Sockets, and JDBC database connectivity.
 
-#### 🏠 [SmartSpace](https://github.com/GentiR-ui/SmartSpace) 🔗
-*Collaborative Team Project*
-- Focused on building reusable React components and seamless RESTful API integration.
-- Implementing Git branching strategies for efficient team collaboration and conflict resolution.
+#### 🏠 [SmartSpace](https://github.com/elvis1322)
+**Collaborative Full-Stack Project**
+* Developed reusable React frontend components and integrated secure RESTful endpoints.
+* Managed team workflows and codebase integrity using structured Git branching strategies.
 
-#### 🏫 [WebSchool](https://github.com/Jahirq1/WebSchool) 🔗
-*Backend Development with PHP*
-- Designed and managed MySQL databases for administrative record keeping.
-- Implemented rigorous data security protocols and server-side input validation.
+#### 🏫 [WebSchool](https://github.com/elvis1322)
+**Backend Developer**
+* Designed relational MySQL schema and developed backend data handling in PHP with rigorous server-side validation.
 
 ---
 
 ### 🎓 Education & Growth
-- **Bachelor in Computer Science** - University for Business and Technology (UBT) | 2023 - Present.
-- **Current Focus:** Deepening my knowledge in **SDLC** and specialized **Quality Assurance (STLC)** processes.
-- **Goal:** Building high-performance APIs and exploring Microservices architecture.
+
+* **B.S. in Computer Science** — University for Business and Technology (UBT) *(2023 – Present)*
+* **Focus Areas:** Advanced .NET Development, Clean Architecture, Quality Assurance (STLC), and Scalable Web Systems.
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/elvis-zogaj](https://linkedin.com/in/elvis-zogaj)
-- **Email:** [elviszogaj12@gmail.com](mailto:elviszogaj12@gmail.com)
-- **Location:** Kline, Kosovo 🇽🇰
+### 📫 Connect With Me
 
----
-*"Dedicated to mastering the art of software development through continuous learning and clean code."*
+* **LinkedIn:** [linkedin.com/in/elvis-zogaj](https://linkedin.com/in/elvis-zogaj)
+* **Email:** elviszogaj12@gmail.com
+* **Location:** Kline, Kosovo 🇽🇰
+
+> *"Dedicated to mastering software development through continuous learning, clean architecture, and practical engineering."*
