@@ -20,24 +20,24 @@ Currently, I am leading the full-stack development of a feature-rich Appointment
 
 ### 📂 Featured Projects
 
-#### 🗓 [Appointment Booking System](https://github.com/elvis1322) 
+#### 🗓 [Appointment Booking System](https://github.com/elvis1322/Appointment-booking-system)
 **Full-Stack Developer & Team Lead**
 * Architected a clean, multi-layer backend in ASP.NET Core using custom JWT & Refresh Token authentication.
 * Integrated real-time communication hubs (SignalR) and payment gateway processing (Stripe).
 * Designed dynamic, responsive React interfaces for seamless booking and scheduling management.
 * Led a 4-member development team through sprint coordination and architectural planning.
 
-#### ☕ [Java Internship Projects](https://github.com/elvis1322)
+#### ☕ [Java Internship Projects](https://github.com/elvis1322/Java-Internship-Projects)
 **Java Development Intern @ Codveda Technologies**
 * Built and delivered 9 core and advanced Java applications demonstrating OOP principles, data structures, and multithreading.
 * Implemented custom binary search trees, File I/O operations, multithreaded network chat applications via Java Sockets, and JDBC database connectivity.
 
-#### 🏠 [SmartSpace](https://github.com/elvis1322)
+#### 🏠 [SmartSpace](https://github.com/GentiR-ui/SmartSpace)
 **Collaborative Full-Stack Project**
 * Developed reusable React frontend components and integrated secure RESTful endpoints.
 * Managed team workflows and codebase integrity using structured Git branching strategies.
 
-#### 🏫 [WebSchool](https://github.com/elvis1322)
+#### 🏫 [WebSchool](https://github.com/Jahirq1/WebSchool)
 **Backend Developer**
 * Designed relational MySQL schema and developed backend data handling in PHP with rigorous server-side validation.
 
